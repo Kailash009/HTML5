@@ -1,0 +1,66 @@
+Languages:-
+---------------------
+>> language is a way of communication.
+In computer we have different types of languages:-
+1. Low Level Language. -> Machine Language. -> 1010010101010101
+2. Middle Level Langugae.  -> C
+3. High Level Lanugage. -> C++ , Java , C# , Python , Php etc.
+-----------------------------------------------------------------------
+1. Client Side.
+2. Server Side.
+--------------------------------------------------------------
+Types of Application:-
+-------------------------------------
+There are two types of application in the market:-
+a) CUI. (Command User Interface)
+	>> Console Based App. =>> CMD (Command Prompt.) -> you should know each and every command.
+b) GUI. (Graphical User Interface)
+	a) Windows Based App. / Desktop App.
+>> An application that runs with the help of o.s.
+>> Compatibility issue.
+I3 500 GB , 4 GB Ram -> 
+	b) Web Application.
+>> An application that runs with the help of Web Browser.
+>> It can be access anywhere.
+>> it follows client-server architecture.
+	c) Web Services. -> XML / SOAP / UDDI / HTTP.
+	d) Web API (Application programming Interface).
+	e) Mobile/android App.
+------------------------------------------------------------------------------------------------------
+SGML :-
+--------------------
+>> It stands for Standard Generalized Markup Language.
+>> Tags are not fully supported in a Browser.
+-------------------------------------------------------------------------------------
+Home Page -> First page of website.
+WebPage -> Each individual page of website is known as web pages.
+Website :- It is a collection of web pages.
+Types of Website:-
+a) Static website.
+>> A website whose contents are fixed. (Read Only).
+b) Dynamic website.
+>> A website whose contents are change.
+-------------------------
+HTML:-
+-------------------
+>> It stands for HyperText Markup Language.
+>> It was developed by 'Tim Berners Lee'.
+>> It is a tag Based Language.
+>> Html is used to describe the content of web page.
+>> Html is used to create static web pages only.
+>> Markup means < > </>
+>> Html is not a case- sensitive language.
+------------------------------------------------------------------------------
+Hyper Text -> <p> ldfjkdsjfldsjf </p>
+Normal Text -> kjfhkds kjfsdhfkh kdhfjdskh
+---------------------------------------------------------------------------------
+Types of Tag:-  Pending
+-----------------------------------------
+
+
+
+
+
+
+
+
