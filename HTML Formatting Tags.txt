@@ -1,0 +1,264 @@
+Web Designing:-
+------------------------------
+HTML:-
+-------------------
+>> It stands for HyperText Markup Language.
+>> It was developed by 'Tim Berners Lee' in 1993
+>> It is a tag Based Language.
+>> Html is used to describe the content of web page.
+>> Html is used to create static web pages only.
+>> Markup means angular tags  < > </>
+>> Html is not a case- sensitive language.
+>> To save html file in html we have following two extension -
+	a) .html
+	b) .htm
+---------------------------------------------------------------------------
+Types of Tag:-
+-----------------------------
+There are two types of Tag in Html:-
+1. Container Tag / Paired Tag. ==>> Which open tag as well as close tag.
+For Ex -> <body> </body>  <p></p>  <div></div>   etc.
+2. Empty Tag / Unpaired Tag.
+>> which open and close itself.
+For Ex ->   <br/> (To Change the Line) , <img/> , <hr/>  =>> Horizontal Ruler
+-------------------------------------------------------------------------------------------------------------------------
+Editor:- (IDE) -> Integrated Development Enviornment.
+-----------------------------------------------------------------------------------------------
+1. Notepad.
+2. Brackets
+3. DreamWeaver.
+4. Vs Code.  
+5. Notepad++.
+--------------------------------------
+VS CODE:-
+-----------------------
+1. Light Weight.
+2. Easy to install any packages.
+3. Support Multiple programming language code.
+--------------------------------------------------------------------------------
+Basic Structure of Html:-
+------------------------------------------------
+<html>
+
+<head>
+
+<title>
+
+</title>
+
+</head>
+
+<body>
+
+</body>
+
+</html>
+------------------------------------------------------------------------------------------------------
+Installation of VS COde:-
+------------------------------------------
+https://code.visualstudio.com/download  ->> Url to download VS Code.
+-------------------------------------------------------------------------------------------------------------
+How to make HTML CODE:-
+------------------------------------------------------
+1. Create a WorkSpace. (Create a Folder).
+2. Open your Folder in VS Code.
+-------------------------------------------------------------
+Heading Tags:-
+---------------------------
+<h1></h1>  ->>> Largest.
+<h2></h2>
+<h3></h3>
+<h4></h4>
+<h5></h5>
+<h6></h6>  -->> Smallest
+---------------------------------------------
+<h1>WELCOME TO MY SMS PROJECT  </h1> 
+<h2>WELCOME TO MY SMS PROJECT </h2>
+<h3>WELCOME TO MY SMS PROJECT </h3>
+<h4>WELCOME TO MY SMS PROJECT </h4>
+<h5>WELCOME TO MY SMS PROJECT </h5>
+<h6>WELCOME TO MY SMS PROJECT </h6>  
+--------------------------------------------------------------------------
+Formatting Tags:-
+---------------------------------
+<b></b>  -> BOLD
+<i></i>  -> Italic
+<u></u>  -> Underline
+<strike></strike>  -> Strike
+<sup></sup>  -> SuperScript  -> Above the BaseLine.
+<sub></sub> -> Subscript  -> Below the BaseLine
+<del></del>  -> Delete
+<ins></ins> -> Insert
+---------------------------------------------------
+<html>
+<head>
+    <title> SMS </title>
+</head>
+
+<body>    
+<h1>Formatting Tags in HTML</h1>
+<b>Hello BOLD </b>  <br/>
+<i>Hello Italic </i>  <br/>
+<u> Hello Underline </u> <br/>
+
+<strike> Hello STRIKE </strike> <br/>
+1 <sup> st </sup>
+2 <sup> nd </sup>
+X <sup>2 </sup>
+3 <sup> rd </sup>  <br/>
+H <sub> 2 </sub> O  <br/>
+H  <sub>2</sub>  S O <sub> 4</sub>  <br/>
+
+ <del> 40% OFF  </del> <ins> 60% OFF </ins>
+</body>
+</html>
+---------------------------
+Font Tag in HTML:-
+------------------------------------------------
+<tagName attributename="value"></tagName>
+-------------------------------
+Font has following three attributes:-
+1. color
+2. size
+3. face
+------------------------------
+BODY Attributes:-
+----------------------------
+1. bgcolor
+2. background
+----------------------------
+<body background="images/hello.jpg">
+----------------------------------------------------------------------------
+Marquee:-
+-----------------------
+>> it is used to provide animation in text as well as image.
+------------------------------------------------------------------------------------------
+<marquee direction="right" onmouseover="stop();" onmouseout="start();" scrollamount="50" behavior="alternate" bgcolor="cyan">
+<font color="red" size="20" face="comic sans ms"> Hello FONT </font>
+</marquee>
+--------------------------------------------------------------------------
+Image Tag in html:- Pending
+--------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
