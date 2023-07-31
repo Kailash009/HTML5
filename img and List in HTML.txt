@@ -1,0 +1,215 @@
+Body:-
+---------------
+1. bgcolor
+2. background.
+--------------------------------
+Image Tag in HTML:-
+-----------------------------------
+>> It is used to render images on your html pages.
+-------------------------------------------------------------------------------------
+<img/>
+--------------------
+List Tag in HTML:-
+-----------------------------------------
+There are three types of list in HTML which are as follows -
+1. Ordered List.
+2. Unordered List.
+3. Defination List.
+---------------------------------------------------------------------------------------------------------
+1. Ordered List
+----------------------------
+>> By default ordered list in number.
+1. Java
+2. Python
+3  PHP
+-------------------------
+<ol>
+<li></li>
+</ol>
+-------------------------
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LIST IN HTML</title>
+</head>
+<body>
+    <h1 align="center">Example of List Tag in HTML</h1>
+    <h3 align="center">Example of Ordered List</h3>
+    <ol type="A">
+        <li>JAVA</li>
+        <li>PHP</li>
+        <li>PYTHON</li>
+        <li>REACT</li>
+        <li>Angular</li>
+    </ol>
+</body>
+</html>
+--------------------------
+2. Unordered List:-
+---------------------------------------
+>> By default it hold bullot symbols.
+<ul>
+<li></li>
+</ul>
+-----------------------------------------------
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LIST IN HTML</title>
+</head>
+<body>
+    <h1 align="center">Example of List Tag in HTML</h1>
+    <h3 align="center">Example of Unordered List</h3>
+    <ul type="square">
+        <li>JAVA</li>
+        <li>PHP</li>
+        <li>PYTHON</li>
+        <li>REACT</li>
+        <li>Angular</li>
+    </ul>
+</body>
+</html>
+---------------------------------------
+3. Defination List:-
+----------------------------------------
+>> It is used to describe the content.
+dl -> Defination List
+dt -> Defination table.
+dd -> Defination Description.
+----------------------------------------------------
+<dl>
+<dt></dt>
+<dd></dd>
+</dl>
+-------------------------------------------------------------------
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LIST IN HTML</title>
+</head>
+<body>
+    <h1 align="center">Example of List Tag in HTML</h1>
+    <h3 align="center">Example of Defination List</h3>
+    <dl>
+        <dt>PYTHON</dt>
+        <dd> Python is a high level,object oriented programming
+        language,it was developed By Guido Van Rossum 1989.
+        The first of python was released in 1991.    
+        </dd>
+        </dl>
+</body>
+</html>
+--------------------------------------------------------------------------------------------------------------
+Nested List:-
+----------------------------------
+>> List within List is called nested list.
+------------------------------------------------------------------
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NESTED LIST</title>
+</head>
+<body bgcolor="yellow">
+    <H1>EXAMPLE OF NESTED LIST</H1>
+    <ol>
+        <li>Python</li>
+        <ol type="a">
+            <li>ML</li>
+            <li>DS</li>
+            <li>AI</li>
+        </ol>
+        <li>Java</li>
+        <ul type="circle">
+            <li>Swing</li>
+            <li>Hybernate</li>
+            <li>Spring Boot</li>
+        </ul>
+        <li>PHP</li>
+        <ol type="i">
+            <li>Laravel</li>
+            <li>Wordpress</li>
+            <li>CI</li>
+        </ol>
+        <li>Angular</li>
+        <ol type="I">
+            <li>Angular CLI</li>
+        </ol>
+        <li>Html</li>
+    </ol>
+</body>
+</html>
+-------------------------------------------------------------
+Assignment Task in HTML:-
+-------------------------------------------------
+1. Create Image Gallery.
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
