@@ -1,0 +1,136 @@
+Elements:-
+1. Block Element. -> It takes complete width. <p></p> <div></div> <h1></h1>
+2. Inline Element. -> It takes whatever is required. <i></i> <b></b> etc. 
+---------------------------------------------------------------------------
+Anchor Tag Attribute:-
+------------------------------
+These are of three types:-
+1. Unvisited. -> color blue.
+2. Visited. -> color purple.
+3. Active. -> color Red.
+--------------------------------
+1. href.
+2. target =  _blank, _self ,_Parent , _top.
+-----------------------------------------------------
+>> Anchor tag by default self.
+------------------------------------------------------
+_blank -> Display page in next tab.
+_self -> Display page in same tab. 
+_parent -> Display page in parent tab.
+_top ->  Display page in top of the page.
+targetvisit -> Display page according to the user.
+-----------------------------------------------------------
+Frame -> It is used to divide the Browser window/webpage.
+-----------------------------------------------------------
+IFrame -> It is used to make your webpage nested.
+>> To implement page within another page we use the concept of IFrame.
+-------------------------------------------------------------------------------
+Syntax:-
+--------------
+<iframe src="" width="" height=""></iframe>
+--------------------------------------------------------------
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IFrame</title>
+</head>
+<body>
+    <h1>This is My IFrame </h1>
+    <iframe src="r1.html" width="500" height="300"></iframe>
+</body>
+</html>
+-------------
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IFrame</title>
+</head>
+<body bgcolor="blue">
+    <h1> BLUE </h1>
+    <iframe src="y1.html" width="300" height="200"></iframe>
+</body>
+</html>
+------------
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IFrame</title>
+</head>
+<body bgcolor="yellow">
+    <h1> YELLOW </h1>
+    <a href="/form.html" target="_parent">Click (Parent) </a>
+    <iframe src="b1.html" width="300" height="200"></iframe>
+</body>
+</html>
+------------
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IFrame</title>
+</head>
+<body bgcolor="pink">
+    <h1> PINK </h1>
+    <a href="/login.html" target="_parent">Click (Parent)</a>
+</body>
+</html>
+-----------------
+Favicon Icon:-
+-----------------
+>> It is a small icon which is display on title.
+<link href="" rel="" type="" />
+Note: <link/> tag always written inside <head></head> tag.
+----------------------------------------------------------------------
+For Example:-
+--------------------
+<link href="images/twit.png" rel="icon"/>
+------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
